@@ -2,20 +2,47 @@
   <div class="page-wrapper">
   <div class='page'>
     <div class='patch-notes'>
-      <h1>Patch 0.2</h1>
+      <h1>Patch 0.4</h1>
 
       <p>
         The following changes to come in the next patch are:
       </p>
         <ul class='patch-notes-ul'>
-          <li><p>Backend support added</p></li>
-          <li><p>Dynamic game mechanics will start being rolled out</p></li>
-          <li><p>Stats and resources to update based on basic game mechanics</p></li>
-          <li><p>More game mechanics added to those already in existence</p></li>
+          <li><p>User research to be added</p></li>
+          <li><p>Standings among users will be displayed</p></li>
+          <li><p>Basic interaction between users added such as adding friends and sending messages</p></li>
+          <li><p>Academic prestige points to update with assignments completed</p></li>
         </ul>
         <p>
-          This will come out sometime in early April 2021.
+          This will come out sometime in early May 2021.
         </p>
+    </div>
+
+    <div class='patch-notes'>
+      <h1>Patch 0.3</h1>
+
+      <p>
+        The following changes were made:
+      </p>
+        <ul class='patch-notes-ul'>
+          <li><p>User authentication added</p></li>
+          <li><p>Data persists on reload</p></li>
+          <li><p>Site is secured</p></li>
+        </ul>
+    </div>
+
+    <div class='patch-notes'>
+      <h1>Patch 0.2</h1>
+
+      <p>
+        The following changes were made:
+      </p>
+        <ul class='patch-notes-ul'>
+          <li><p>Backend support added</p></li>
+          <li><p>Dynamic game mechanics started being rolled out</p></li>
+          <li><p>Stats and resources update based on basic game mechanics</p></li>
+          <li><p>Assignments game mechanic added</p></li>
+        </ul>
     </div>
 
     <div class='patch-notes'>
