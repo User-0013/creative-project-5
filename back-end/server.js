@@ -12,7 +12,7 @@ app.use(bodyParser.urlencoded({
 }));
 
 // connect to the mongodb database
-mongoose.connect('mongodb://localhost:27017/academy', {
+mongoose.connect('mongodb://localhost:27017/academy-live', {
   useUnifiedTopology: true,
   useNewUrlParser: true
 });
